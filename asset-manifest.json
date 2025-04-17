@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dsainvg/Fest_Page/static/css/main.ba03e741.css",
+    "main.js": "/dsainvg/Fest_Page/static/js/main.b3977f59.js",
+    "static/media/Clgfest.jpeg": "/dsainvg/Fest_Page/static/media/Clgfest.1557c525d5d6a0871c27.jpeg",
+    "index.html": "/dsainvg/Fest_Page/index.html",
+    "main.ba03e741.css.map": "/dsainvg/Fest_Page/static/css/main.ba03e741.css.map",
+    "main.b3977f59.js.map": "/dsainvg/Fest_Page/static/js/main.b3977f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba03e741.css",
+    "static/js/main.b3977f59.js"
+  ]
+}
